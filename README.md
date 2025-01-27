@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi there! 👋 I'm Radhika Badkhal</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Radhika+Badkhal;Data+Analyst+📊+🚀" />
+</h1>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" width="600" height = "400" />
